@@ -1,2 +1,12 @@
 server:
   port: 8180
+
+spring:
+  boot:
+    admin:
+      notify:
+        mail:
+          to: someone@localhost.de
+          enabled: true
+  mail:
+    host: localhost
