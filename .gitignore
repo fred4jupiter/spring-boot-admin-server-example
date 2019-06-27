@@ -1,0 +1,16 @@
+# Eclipse
+.settings/
+.classpath
+.project
+.springBeans
+.factorypath
+target/
+release_version.txt
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+*.log
+
+/.apt_generated/
